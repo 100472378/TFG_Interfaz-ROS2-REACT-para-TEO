@@ -1,4 +1,12 @@
-# React + Vite
+# Interfaz REACT para TEO
+
+## 
+
+```bash
+git add .
+git commit -m "mensaje"
+git push origin main
+```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

@@ -22,12 +22,7 @@ YARP_COLORED_OUTPUT=1 gazebo /home/angel/repos/teo-gazebo-models/worlds/teo_fixe
 ros2 launch rosbridge_server  rosbridge_websocket_launch.xml
 ```
 
-4.- Lanzar servidor rosbridge que conecta ros2 con react mediante Websockets.
-```bash
-ros2 launch rosbridge_server  rosbridge_websocket_launch.xml
-```
-
-5.- Arrancar la aplicación
+4.- Arrancar la aplicación
 ```bash
 # En la carpeta del proyecto
 npm run dev
